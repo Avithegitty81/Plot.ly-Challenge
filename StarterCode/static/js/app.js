@@ -124,7 +124,7 @@ function initialPage(data){
       }], 
 
       var layout_guag = { 
-          marhin: {
+          margin: {
               t: 60,
               pad: 4
           
